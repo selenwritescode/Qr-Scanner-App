@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382778792921",
+    "project_id": "login-register-dc5e4",
+    "storage_bucket": "login-register-dc5e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382778792921:android:114ba59c9621d894ad17c8",
+        "android_client_info": {
+          "package_name": "com.example.biletoss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3z12D36LyHeLFZZlA4__qZebpWkzEJe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
